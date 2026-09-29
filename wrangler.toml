@@ -1,4 +1,4 @@
-name = "simplecast"
+name = "simple-cast"
 main = "src/worker.js"
 compatibility_date = "2025-01-01"
 
