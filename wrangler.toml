@@ -3,7 +3,7 @@ main = "src/worker.js"
 compatibility_date = "2025-01-01"
 
 [vars]
-ALLOWED_ORIGIN = "https://simple-cast.pages.dev"
+ALLOWED_ORIGIN = "https://simple-cast.pages.dev,https://simplecast.surge.sh"
 
 [[durable_objects.bindings]]
 name = "ROOM"
